@@ -107,7 +107,7 @@ fun ScaffoldExample() {
 
                     It also contains some basic inner content, such as this text.
 
-                    You have pressed the floating action button.
+                    You have pressed the floating action button $counter times.
                 """.trimIndent(),
             )
         }
